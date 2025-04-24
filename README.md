@@ -19,3 +19,5 @@ Controls:
 - ``Left/Right arrows``: Switch frames/Create new frame
 - ``Enter``: Play animation
 - ``B``: Switch layers
+- ``Left mouse drag``: Draw
+- ``Right mouse drag``: Erase
